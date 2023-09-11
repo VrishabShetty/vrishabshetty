@@ -12,7 +12,7 @@ I aspire to be a software developer/programmer. I love doing competitive coding 
 ### 🤝 Connect with me:
 
 <a href="https://linkedin.com/in/vrishab-shetty/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Vrishab Shetty | LinkedIn" width="21px"/></a>
-<a href="mailto:vrishabshetty@gmai.com" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Vrishab Shetty | Mail" height="30px" width="21px" /></a>&nbsp;
+<a href="mailto:vrishabshetty@gmai.com" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Vrishab Shetty | Mail" width="21px" /></a>&nbsp;
 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
@@ -24,7 +24,8 @@ I aspire to be a software developer/programmer. I love doing competitive coding 
 
 ## 🌱 I'm currently learning
 
-- Web Design 
+- Web Design
+- 
 
 ## 💼 Technical Skills
 
@@ -32,14 +33,16 @@ I aspire to be a software developer/programmer. I love doing competitive coding 
 ![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg)
 ![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg)
 ![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg)
-![Python](https://www.vectorlogo.zone/logos/python/python-horizontal.svg)
-![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)
+
 
 </br>
 
+![Python](https://www.vectorlogo.zone/logos/python/python-horizontal.svg)
+![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)
+![CSS3](https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg)
 ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)
 ![GitHub](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
-![CSS3](https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg)
+
 
 
 
