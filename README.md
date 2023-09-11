@@ -11,7 +11,7 @@ I aspire to be a software developer/programmer. I love doing competitive coding 
 
 ### 🤝 Connect with me:
 
-<a href="https://linkedin.com/in/vrishab-shetty/"><img align="left" src="https://github.com/VrishabShetty/vrishabshetty/tree/main/images/linkedin.svg" alt="Vrishab Shetty | LinkedIn" width="21px"/></a>
+<a href="https://linkedin.com/in/vrishab-shetty/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"" alt="Vrishab Shetty | LinkedIn" width="21px"/></a>
 <a href="mailto:vrishabshetty@gmai.com" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Vrishab Shetty | Mail" height="30px" width="21px" /></a>&nbsp;
 
 </br>
@@ -28,12 +28,12 @@ I aspire to be a software developer/programmer. I love doing competitive coding 
 
 ## 💼 Technical Skills
 
-![Java](https://www.vectorlogo.zone/logos/java/java-vertical.svg)
-![Kotlin](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://www.vectorlogo.zone/logos/java/java-horizontal.svg)
+![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg)
+![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg)
+![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg)
+![Python](https://www.vectorlogo.zone/logos/python/python-horizontal.svg)
+![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)
 
 </br>
 
