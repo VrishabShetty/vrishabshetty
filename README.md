@@ -1,38 +1,35 @@
-<p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/205411672-eb589407-43a9-484a-b0cc-ed7caf280776.png" alt="my banner"></a>
-</p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
+Hi there, Vrishab 👋
 </h3>
 
 <h2 align="center">
-I'm a Front-end Web Developer 💻, Photographer 📸, and Designer 🎨!
+I'm a Android Developer :iphone:!
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I aspire to be a software developer/programmer. I love doing competitive coding on different platforms like <a href="https://codeforces.com/profile/grivarvicky">Codeforces <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Vrishab Shetty | Codeforces" width="10px" heigth="10px"> , <a href="">CodeChef <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="Vrishab Shetty | CodeChef" width="10px" heigth="10px">.
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="https://linkedin.com/in/vrishab-shetty/"><img align="left" src="https://github.com/VrishabShetty/vrishabshetty/tree/main/images/linkedin.svg" alt="Vrishab Shetty | LinkedIn" width="21px"/></a>
+<a href="mailto:vrishabshetty@gmai.com" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Vrishab Shetty | Mail" height="30px" width="21px" /></a>&nbsp;
+
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
 
-- poke-finder project
-- anime project
+- Book project
+
 
 ## 🌱 I'm currently learning
 
-- 
+- Web Design
 
 ## 💼 Technical Skills
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://www.vectorlogo.zone/logos/java/java-vertical.svg)
+![Kotlin](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
