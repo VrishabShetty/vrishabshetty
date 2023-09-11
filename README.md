@@ -25,7 +25,7 @@ I aspire to be a software developer/programmer. I love doing competitive coding 
 ## 🌱 I'm currently learning
 
 - Web Design
-- 
+
 
 ## 💼 Technical Skills
 
